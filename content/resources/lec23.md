@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Lecture #23: Isaak Dinesen, "Sorrow-Acre"'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-422-tragedy-fall-2002/431dab013869dfbb2b89e1f621eadeb0_lec23.pdf
+file: /media/courses/21l-422-tragedy-fall-2002/431dab013869dfbb2b89e1f621eadeb0_lec23.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: lec23.pdf
 uid: 431dab01-3869-dfbb-2b89-e1f621eadeb0
