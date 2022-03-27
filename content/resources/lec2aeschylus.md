@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e3be68ba-d475-cfaa-c2a5-8f4e852c3440
 resourcetype: Document
 title: lec2aeschylus.pdf
 uid: e696f813-f5fe-e142-370c-33ea84ec03ff

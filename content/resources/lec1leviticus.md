@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e3be68ba-d475-cfaa-c2a5-8f4e852c3440
 resourcetype: Document
 title: lec1leviticus.pdf
 uid: 6169fa84-2078-d62f-a390-ac5cb550af0a
