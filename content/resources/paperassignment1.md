@@ -5,6 +5,7 @@ file: /courses/21l-422-tragedy-fall-2002/7170acfcb72c75deb76d3fe9966bbe43_papera
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paperassignment1.pdf
 uid: 7170acfc-b72c-75de-b76d-3fe9966bbe43
 ---
 Topics For First Paper
-

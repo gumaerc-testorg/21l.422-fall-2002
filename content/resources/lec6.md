@@ -5,6 +5,7 @@ file: /courses/21l-422-tragedy-fall-2002/c85836220a314428ad600b4e9e0d7ef3_lec6.p
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec6.pdf
 uid: c8583622-0a31-4428-ad60-0b4e9e0d7ef3
 ---
 Lecture #6: Plato, the Apology of Socrates, Crito;  Aristotle, Poetics
-
