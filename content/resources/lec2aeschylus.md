@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture #2: Aeschylus, The Orestia'
 file: /courses/21l-422-tragedy-fall-2002/e696f813f5fee142370c33ea84ec03ff_lec2aeschylus.pdf
+file_size: 68243
 file_type: application/pdf
 learning_resource_types:
 - Readings

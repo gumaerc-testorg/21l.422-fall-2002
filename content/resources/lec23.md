@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture #23: Isaak Dinesen, "Sorrow-Acre"'
 file: /courses/21l-422-tragedy-fall-2002/431dab013869dfbb2b89e1f621eadeb0_lec23.pdf
+file_size: 186264
 file_type: application/pdf
 learning_resource_types:
 - Readings
