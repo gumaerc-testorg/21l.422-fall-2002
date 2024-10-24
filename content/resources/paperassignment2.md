@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Topics For Second Paper
-file: /courses/21l-422-tragedy-fall-2002/f11af88ac6fd9bab658486f7d9e94d67_paperassignment2.pdf
+file: /ol-ocw-studio-app/courses/21l-422-tragedy-fall-2002/f11af88ac6fd9bab658486f7d9e94d67_paperassignment2.pdf
 file_size: 105375
 file_type: application/pdf
 learning_resource_types:
