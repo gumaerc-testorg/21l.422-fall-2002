@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Topics For Final Paper
-file: /ol-ocw-studio-app/courses/21l-422-tragedy-fall-2002/2bf2e7878f631d8f07709d1587a67cc8_paperassignment3.pdf
+file: /courses/21l-422-tragedy-fall-2002/2bf2e7878f631d8f07709d1587a67cc8_paperassignment3.pdf
 file_size: 126195
 file_type: application/pdf
 learning_resource_types:
